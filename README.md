@@ -1,1 +1,1 @@
-# golang-docker-boilertemplate
+# golang-restapi-sample
